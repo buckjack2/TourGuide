@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android-TourGuide.iml" filepath="$PROJECT_DIR$/Android-TourGuide.iml" group="TourGuide" />
+      <module fileurl="file://$PROJECT_DIR$/Basics Nanodegree-TourGuide.iml" filepath="$PROJECT_DIR$/Basics Nanodegree-TourGuide.iml" group="TourGuide" />
+      <module fileurl="file://$PROJECT_DIR$/TourGuide.iml" filepath="$PROJECT_DIR$/TourGuide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/TourGuide-app.iml" filepath="$PROJECT_DIR$/app/TourGuide-app.iml" group="TourGuide/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
